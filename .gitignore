@@ -1,0 +1,4 @@
+c/build
+c/bin
+
+*.pyc
